@@ -25,7 +25,7 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Pushpalatharg/Excel-Sales_Analytics/blob/main/P%20%26%20L%20by%20Markets.pdf)_
 
-   **3.** Create Gross Margin % report by [subzon](https://github.com/Pushpalatharg/Excel-Sales_Analytics/blob/main/P%20%26%20L%20by%20Markets.pdf)_
+   **3.** Create Gross Margin % reports by _[Subzone](https://github.com/Pushpalatharg/Excel-Sales_Analytics/blob/main/GM%20by%20Subzone.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
